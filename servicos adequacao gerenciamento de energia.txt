@@ -1,0 +1,24 @@
+
+tela diagnostico de redes
+
+1- trocar nome tipo tag por nome operacional
+2- tirar status esteve fora de rede 
+3- retirar pacs nao existente (laticinio)
+4- inserir area e pac area container (datacenter)
+
+
+tela analize de trends 
+
+1- acrescentar trends das areas que ainda nao foram inseridas 
+
+tela faturamento online 
+
+1- acrescentar faturamento das areas que ainda nao foram inseridas 
+
+tela consumo online 
+
+1- acrescentar consumo das areas que ainda nao foram inseridas 
+
+criar tela leitura de fator de potencia 
+
+1- criar uma tela com indicação do fator de potencia de todos os pacs
